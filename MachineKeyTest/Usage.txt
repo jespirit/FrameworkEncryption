@@ -1,0 +1,6 @@
+﻿
+MachineKeyTest.exe <templateDirectory> <pageType>
+
+MachineKeyTest.exe "/MinEterm/SimpleTerm" "SimpleTerm_GettingStarted_aspx"
+
+MachineKeyTest.exe "/MinEterm/SimpleTerm" "SimpleTerm_InsuranceInformation_aspx"
